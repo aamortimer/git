@@ -1,0 +1,8 @@
+Tags
+===
+
+## Listing tags
+
+```bash
+git tag --list
+```
