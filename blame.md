@@ -1,4 +1,4 @@
-git blame 
+Blame 
 ===
 Git blame is useful for working out who made a change to a file
 
